@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QLSD">
         <activity
+            android:name=".DanhSach"
+            android:exported="false" />
+        <activity
             android:name=".Home"
             android:exported="true" />
         <activity
